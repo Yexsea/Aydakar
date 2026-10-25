@@ -6,7 +6,9 @@
 
 ## 🎥 Demo
 
-_Çalışma videosu yakında eklenecek._ <!-- media/ klasörüne eklenecek -->
+
+https://github.com/user-attachments/assets/7a099a52-1371-45df-b9f2-72c166c05c7c
+
 
 ## Sistem Hakkında
 
