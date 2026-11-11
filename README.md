@@ -1,11 +1,11 @@
-# AYDAKAR – Otonom Hedef Tespit ve Takip Sistemi
+# AYDAKAR – Otonom Hedef Tespit ve Takip Sistemi 
 
 > TEKNOFEST 2026 **Savaşan İHA** yarışması AYDAKAR takımı için geliştirdiğimiz otonom hedef tespit, takip ve kilitlenme yazılımından seçilmiş parçalar.
 
 ⚠️ **Not:** Bu depo bir **vitrin (showcase)** deposudur. Sistemin tamamı takıma ait olduğu için paylaşılmamıştır. Burada yalnızca mimariyi göstermek için seçilen birkaç bağımsız modül bulunur. Dosyalar tek başına çalıştırılmak için değil, kod yapısını göstermek için eklenmiştir (`core.config` gibi bağımlılıklar depoda yoktur).
 
 ## 🎥 Demo
-
+ 
 
 https://github.com/user-attachments/assets/7a099a52-1371-45df-b9f2-72c166c05c7c
 
